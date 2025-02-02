@@ -17,8 +17,8 @@
 6. Refresh halaman lalu klik sales_db
 7. Klik tab SQL di bagian atas
 8. lalu masukkan query berikut:
-
-   ```CREATE TABLE marketing (
+   ```sql
+   CREATE TABLE marketing (
        id INT AUTO_INCREMENT PRIMARY KEY,
        name VARCHAR(255) NOT NULL
    );
